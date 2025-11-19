@@ -11,7 +11,7 @@ My goal is simple: **Stop guessing, start knowing.** Whether it's a messy sales 
 * **Research:** Public Health Data & Survey Analysis.
 
 #### 📂 Featured Work
-* * **[Retail Sales Analysis](README.md)** Analyzed a 500+ transaction dataset to identify top revenue drivers and customer retention trends for a fragrance brand.
+* * **[Retail Sales Analysis](https://github.com/Treasures-Analyst/Fragrance-Sales-Analysis)** Analyzed a 500+ transaction dataset to identify top revenue drivers and customer retention trends for a fragrance brand.
 * *(More projects coming soon!)*
 
 #### 📫 Let's Connect
